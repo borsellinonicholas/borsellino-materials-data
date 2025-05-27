@@ -1,0 +1,584 @@
+{
+  "Westfall": [
+    {
+      "material": "Saddle Brown & Black Diamond Hardwood Mulch",
+      "price": 42.0,
+      "max": 10
+    }
+  ],
+  "OCRRA Jamesville": [
+    {
+      "material": "Double Ground Mulch",
+      "price": 17.0,
+      "max": 10
+    },
+    {
+      "material": "Triple Ground Mulch",
+      "price": 20.0,
+      "max": 10
+    },
+    {
+      "material": "Dyed Triple Ground Mulch",
+      "price": 36.0,
+      "max": 10
+    },
+    {
+      "material": "General Compost",
+      "price": 20.0,
+      "max": 6
+    },
+    {
+      "material": "Premium Compost",
+      "price": 24.0,
+      "max": 6
+    }
+  ],
+  "Callanan": [
+    {
+      "material": "1B Screenings Dry (Stone Dust)",
+      "price": 29.0,
+      "max": 3
+    },
+    {
+      "material": "1A Crushed Stone (1/4\")",
+      "price": 49.0,
+      "max": 3
+    },
+    {
+      "material": "1 (1/2\"), 2 (3/4\"), 1&2 Crushed Stone",
+      "price": 37.0,
+      "max": 3
+    },
+    {
+      "material": "3A (1 1/4\"), 3 (1 1/2)\", 4 (3\"), 3&4 Crushed Stone",
+      "price": 37.0,
+      "max": 3
+    },
+    {
+      "material": "1ST Crushed Stone (3/8\")",
+      "price": 44.0,
+      "max": 3
+    },
+    {
+      "material": "Driveway Subbase (1/2\") (Driveway Mix)",
+      "price": 29.0,
+      "max": 3
+    },
+    {
+      "material": "Fine Crusher Run (3/4\")",
+      "price": 26.0,
+      "max": 3
+    },
+    {
+      "material": "Crusher Run (1 1/2\") or Coarse (4\")",
+      "price": 25.0,
+      "max": 3
+    },
+    {
+      "material": "Type II Subbbase (1.5\")",
+      "price": 25.0,
+      "max": 3
+    },
+    {
+      "material": "DOT Subbase: T-1 (3\"), T-2 (2\"), T-3 (4\")",
+      "price": 30.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Fill Fine",
+      "price": 36.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Fill Light",
+      "price": 45.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Fill Medium",
+      "price": 49.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Fill Heavy",
+      "price": 56.0,
+      "max": 3
+    },
+    {
+      "material": "Rip Rap Dry",
+      "price": 102.0,
+      "max": 3
+    },
+    {
+      "material": "Rip Rap",
+      "price": 45.0,
+      "max": 3
+    },
+    {
+      "material": "Gabion Stone (4-8\")",
+      "price": 36.0,
+      "max": 3
+    },
+    {
+      "material": "Wall Stone (Stackables)",
+      "price": 133.0,
+      "max": 3
+    },
+    {
+      "material": "Select Fill",
+      "price": 17.0,
+      "max": 3
+    },
+    {
+      "material": "Shale",
+      "price": 11.0,
+      "max": 3
+    },
+    {
+      "material": "Waste",
+      "price": 19.0,
+      "max": 3
+    },
+    {
+      "material": "1B Washed Screenings",
+      "price": 41.0,
+      "max": 3
+    },
+    {
+      "material": "1A Washed (1/4\")",
+      "price": 56.0,
+      "max": 3
+    },
+    {
+      "material": "1 (1/2\"), 2 (3/4\"), 1&2 Washed",
+      "price": 42.0,
+      "max": 3
+    },
+    {
+      "material": "ASTM #57 Stone",
+      "price": 42.0,
+      "max": 3
+    },
+    {
+      "material": "Washed 1ST (3/8\")",
+      "price": 49.0,
+      "max": 3
+    }
+  ],
+  "Aspinall's": [
+    {
+      "material": "Topsoil",
+      "price": 47.0,
+      "max": 3
+    },
+    {
+      "material": "Compost",
+      "price": 47.0,
+      "max": 6
+    },
+    {
+      "material": "Single Ground Pine Mulch",
+      "price": 39.0,
+      "max": 10
+    },
+    {
+      "material": "Double Ground Hardwood Mulch",
+      "price": 45.0,
+      "max": 10
+    },
+    {
+      "material": "Certified Playground",
+      "price": 60.0,
+      "max": 10
+    },
+    {
+      "material": "Saddle Brown Mulch - Pine or Hardwood",
+      "price": 45.0,
+      "max": 10
+    },
+    {
+      "material": "Black Diamond Mulch - Pine or Hardwood",
+      "price": 45.0,
+      "max": 10
+    },
+    {
+      "material": "Washed Crushed (1A, #1, #2)",
+      "price": 60.0,
+      "max": 3
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 54.0,
+      "max": 3
+    },
+    {
+      "material": "Runner Crush",
+      "price": 48.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Dust",
+      "price": 54.0,
+      "max": 3
+    },
+    {
+      "material": "Brick Sand (fine paver setting bed)",
+      "price": 60.0,
+      "max": 3
+    },
+    {
+      "material": "Mason Sand (fine particle)",
+      "price": 60.0,
+      "max": 3
+    },
+    {
+      "material": "Grey Roundstone (Pea, #1, #2, #3)",
+      "price": 66.0,
+      "max": 3
+    },
+    {
+      "material": "Pink Roundstone (Pea, #1, #2, #3)",
+      "price": 72.0,
+      "max": 3
+    },
+    {
+      "material": "Magenta",
+      "price": 179.0,
+      "max": 3
+    },
+    {
+      "material": "Brick Chips",
+      "price": 215.0,
+      "max": 3
+    },
+    {
+      "material": "St. Lawrence Stone",
+      "price": 107.0,
+      "max": 3
+    }
+  ],
+  "Cunningham": [
+    {
+      "material": "Bankrun Gravel",
+      "price": 11.0,
+      "max": 3
+    },
+    {
+      "material": "Screened Gravel (Item #4)",
+      "price": 15.0,
+      "max": 3
+    },
+    {
+      "material": "Crushed Gravel (Item #4, 2\" minus)",
+      "price": 17.0,
+      "max": 3
+    },
+    {
+      "material": "Topsoil",
+      "price": 46.0,
+      "max": 3
+    },
+    {
+      "material": "Fill Dirt",
+      "price": 9.0,
+      "max": 3
+    },
+    {
+      "material": "Cobbles",
+      "price": 15.0,
+      "max": 3
+    },
+    {
+      "material": "3s & 4s & 1s & 2s",
+      "price": 15.0,
+      "max": 3
+    },
+    {
+      "material": "Sand",
+      "price": 16.0,
+      "max": 3
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 27.0,
+      "max": 3
+    },
+    {
+      "material": "#57 Stone",
+      "price": 27.0,
+      "max": 3
+    }
+  ],
+  "Kinsella Delphi": [
+    {
+      "material": "Crusher Run 1 1/2\" Gravel",
+      "price": 36.0,
+      "max": 3
+    },
+    {
+      "material": "Crusher Run 1 1/2\" Limestone",
+      "price": 53.0,
+      "max": 3
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 54.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Sand",
+      "price": 53.0,
+      "max": 3
+    },
+    {
+      "material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
+      "price": 68.0,
+      "max": 3
+    },
+    {
+      "material": "SAND: Washed #1B (road sand), Mason, Concrete",
+      "price": 37.0,
+      "max": 3
+    },
+    {
+      "material": "Bedding Sand",
+      "price": 26.0,
+      "max": 3
+    },
+    {
+      "material": "Bank Run Gravel / Clay",
+      "price": 21.0,
+      "max": 3
+    },
+    {
+      "material": "Screened Gravel",
+      "price": 27.0,
+      "max": 3
+    },
+    {
+      "material": "Sized Round Stone #1A",
+      "price": 48.0,
+      "max": 3
+    },
+    {
+      "material": "Sized Round Stone #1, #2, etc",
+      "price": 54.0,
+      "max": 3
+    },
+    {
+      "material": "Screened Topsoil",
+      "price": 81.0,
+      "max": 3
+    },
+    {
+      "material": "Fill",
+      "price": 14.0,
+      "max": 3
+    }
+  ],
+  "Kinsella Fayetteville": [
+    {
+      "material": "Crusher Run 1 1/2\"",
+      "price": 41.0,
+      "max": 3
+    },
+    {
+      "material": "Crushed Gravel 3\"",
+      "price": 30.0,
+      "max": 3
+    },
+    {
+      "material": "Crushed #1A",
+      "price": 56.0,
+      "max": 3
+    },
+    {
+      "material": "Sized Crushed Stone (#1, #2, #3, #3A, #4)",
+      "price": 54.0,
+      "max": 3
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 42.0,
+      "max": 3
+    },
+    {
+      "material": "Stone Sand",
+      "price": 41.0,
+      "max": 3
+    },
+    {
+      "material": "Washed #1B sand",
+      "price": 44.0,
+      "max": 3
+    },
+    {
+      "material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
+      "price": 56.0,
+      "max": 3
+    },
+    {
+      "material": "SAND: Concrete & Mason",
+      "price": 49.0,
+      "max": 3
+    },
+    {
+      "material": "Sized Round Stone #1A",
+      "price": 60.0,
+      "max": 3
+    },
+    {
+      "material": "Sized Round Stone 9#1, #2, etc)",
+      "price": 67.0,
+      "max": 3
+    },
+    {
+      "material": "Screened Topsoil",
+      "price": 81.0,
+      "max": 3
+    },
+    {
+      "material": "Manufactured Topsoil",
+      "price": 72.0,
+      "max": 3
+    },
+    {
+      "material": "Recycled Blacktop",
+      "price": 37.0,
+      "max": 3
+    },
+    {
+      "material": "Recycled Concrete",
+      "price": 27.0,
+      "max": 3
+    },
+    {
+      "material": "Fill",
+      "price": 14.0,
+      "max": 3
+    },
+    {
+      "material": "Select Fill",
+      "price": 14.0,
+      "max": 3
+    },
+    {
+      "material": "Inbound Fill",
+      "price": 13.0,
+      "max": 3
+    },
+    {
+      "material": "Inbound Concrete",
+      "price": 9.0,
+      "max": 3
+    },
+    {
+      "material": "Oversized Concrete (Larger than 2' x 2')",
+      "price": 14.0,
+      "max": 3
+    },
+    {
+      "material": "Inbound Asphalt",
+      "price": 5.0,
+      "max": 3
+    }
+  ],
+  "OCRRA Amboy": [
+    {
+      "material": "Double Ground Mulch",
+      "price": 17.0,
+      "max": 10
+    },
+    {
+      "material": "Triple Ground Mulch",
+      "price": 20.0,
+      "max": 10
+    },
+    {
+      "material": "Dyed Triple Ground Mulch",
+      "price": 36.0,
+      "max": 10
+    },
+    {
+      "material": "General Compost",
+      "price": 20.0,
+      "max": 6
+    },
+    {
+      "material": "Premium Compost",
+      "price": 24.0,
+      "max": 6
+    }
+  ],
+  "Green Scapes": [
+    {
+      "material": "Pine Mulch",
+      "price": 65.0,
+      "max": 10
+    },
+    {
+      "material": "Playground Surfacing",
+      "price": 51.0,
+      "max": 10
+    },
+    {
+      "material": "Premium Hardwood",
+      "price": 40.0,
+      "max": 10
+    },
+    {
+      "material": "Nature's Bark",
+      "price": 29.0,
+      "max": 10
+    },
+    {
+      "material": "Hemlock Bark",
+      "price": 65.0,
+      "max": 10
+    },
+    {
+      "material": "Cheap Chips",
+      "price": 13.0,
+      "max": 10
+    },
+    {
+      "material": "Mulch (Stella Black, Sable Brown, Orchard Red)",
+      "price": 41.0,
+      "max": 10
+    },
+    {
+      "material": "Topsoil or Planting Blend",
+      "price": 66.0,
+      "max": 3
+    },
+    {
+      "material": "Blended Compost",
+      "price": 40.0,
+      "max": 5
+    },
+    {
+      "material": "Mushroom Soil Compost",
+      "price": 72.0,
+      "max": 5
+    }
+  ],
+  "Raimondo Bros": [
+    {
+      "material": "Topsoil / Compost mix",
+      "price": 56.0,
+      "max": 4
+    },
+    {
+      "material": "Gardenbrew (organic compost)",
+      "price": 48.0,
+      "max": 5
+    }
+  ],
+  "Art Park": [
+    {
+      "material": "Wood Chips (Cheap Chips)",
+      "price": 5.0,
+      "max": 10
+    }
+  ]
+}

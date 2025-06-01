@@ -1,944 +1,759 @@
-[
-  {
-    "Supplier Name": "Westfall",
-    "Material": "Saddle Brown Hardwood Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Westfall",
-    "Material": "Black Diamond Hardwood Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "OCRRA Jamesville",
-    "Material": "Natural Double Ground Mulch",
-    "Price Per Yard": 17,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Jamesville",
-    "Material": "Natural Triple Ground Mulch",
-    "Price Per Yard": 20,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Jamesville",
-    "Material": "Dyed Triple Ground Mulch",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Jamesville",
-    "Material": "1/2\" Screened Compost",
-    "Price Per Yard": 20,
-    "Max Yards Per Load": 6
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1B Screenings Dry (Stone Dust)",
-    "Price Per Yard": 29,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1A Crushed Stone (1/4\")",
-    "Price Per Yard": 49,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1 Crushed Stone (1/2\")",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "2 Crushed Stone (3/4\")",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1&2 Blend Crushed Stone",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "3A Crushed Stone (1 1/4\")",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "3 Crushed Stone (1 1/2\")",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "4 Crushed Stone (3\")",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "3&4 Blend Crushed Stone",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1ST Crushed Stone (3/8\")",
-    "Price Per Yard": 44,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Driveway Subbase (1/2\") (Driveway Mix)",
-    "Price Per Yard": 29,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Fine Crusher Run (3/4\")",
-    "Price Per Yard": 26,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Crusher Run (1 1/2\")",
-    "Price Per Yard": 25,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Coarse Crusher Run (4\")",
-    "Price Per Yard": 25,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Type II Subbbase (1.5\")",
-    "Price Per Yard": 25,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "DOT Subbase: T-1 (3\"), T-2 (2\"), T-3 (4\")",
-    "Price Per Yard": 30,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Stone Fill Fine",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Stone Fill Light",
-    "Price Per Yard": 45,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Stone Fill Medium",
-    "Price Per Yard": 49,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Stone Fill Heavy",
-    "Price Per Yard": 56,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Rip Rap Dry",
-    "Price Per Yard": 102,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Rip Rap",
-    "Price Per Yard": 45,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Gabion Stone (4-8\")",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Wall Stone (Stackables)",
-    "Price Per Yard": 133,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Select Fill",
-    "Price Per Yard": 17,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Shale",
-    "Price Per Yard": 11,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Waste",
-    "Price Per Yard": 19,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1B Washed Screenings",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1A Washed (1/4\")",
-    "Price Per Yard": 56,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1 Washed Crushed Stone (1/2\")",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "2 Washed Crushed Stone (3/4\")",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "1&2 Blend Washed Crushed Stone",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "ASTM #57 Stone",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Callanan",
-    "Material": "Washed 1ST (3/8\")",
-    "Price Per Yard": 49,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Topsoil (Screened)",
-    "Price Per Yard": 45,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Compost (Screened)",
-    "Price Per Yard": 45,
-    "Max Yards Per Load": 6
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Single Ground Natural Pine Mulch",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Double Ground Natural Hardwood Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Certified Playground",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Saddle Brown Pine Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Saddle Brown Hardwood Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Black Diamond Pine Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Black Diamond Hardwood Mulch",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1A Washed Crushed",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1 Washed Crushed",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "2 Washed Crushed",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "3&4 Blend Washed Crushed",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Driveway Mix",
-    "Price Per Yard": 52,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Runner Crush",
-    "Price Per Yard": 46,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Stone Dust",
-    "Price Per Yard": 52,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Brick Sand (fine paver setting bed)",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Mason Sand (fine particle)",
-    "Price Per Yard": 58,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1A Grey Roundstone (Pea Gravel)",
-    "Price Per Yard": 64,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1 Grey Roundstone",
-    "Price Per Yard": 64,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "2 Grey Roundstone",
-    "Price Per Yard": 64,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "3&4 Blend Grey Roundstone",
-    "Price Per Yard": 64,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1A Pink Roundstone (Pea Gravel)",
-    "Price Per Yard": 70,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "1 Pink Roundstone",
-    "Price Per Yard": 70,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "2 Pink Roundstone",
-    "Price Per Yard": 70,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "3&4 Blend Pink Roundstone",
-    "Price Per Yard": 70,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Magenta",
-    "Price Per Yard": 177,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "Brick Chips",
-    "Price Per Yard": 213,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "St. Lawrence Granite Crushed 1&2 Blend",
-    "Price Per Yard": 105,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Aspinall's",
-    "Material": "St. Lawrence Granite Rounded 2&3 Blend",
-    "Price Per Yard": 105,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Bankrun Gravel",
-    "Price Per Yard": 11,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Screened Gravel (Item #4)",
-    "Price Per Yard": 15,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Crushed Gravel (Item #4, 2\" minus)",
-    "Price Per Yard": 17,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Topsoil (Screened)",
-    "Price Per Yard": 46,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Fill Dirt",
-    "Price Per Yard": 9,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Cobbles",
-    "Price Per Yard": 15,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "3s & 4s & 1s & 2s",
-    "Price Per Yard": 15,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Sand",
-    "Price Per Yard": 16,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "Driveway Mix",
-    "Price Per Yard": 27,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Cunningham",
-    "Material": "#57 Stone",
-    "Price Per Yard": 27,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Crusher Run 1 1/2\" Gravel",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Crusher Run 1 1/2\" Limestone",
-    "Price Per Yard": 53,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Driveway Mix",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Stone Sand",
-    "Price Per Yard": 53,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
-    "Price Per Yard": 68,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Washed #1B Sand (road sand)",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Mason Sand",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Concrete Sand",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Bedding Sand",
-    "Price Per Yard": 26,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Bank Run Gravel / Clay",
-    "Price Per Yard": 21,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Screened Gravel",
-    "Price Per Yard": 27,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "1A Round Stone",
-    "Price Per Yard": 48,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "1 Round Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "2 Round Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Other Round Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Screened Topsoil",
-    "Price Per Yard": 81,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Delphi",
-    "Material": "Fill",
-    "Price Per Yard": 14,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Crusher Run 1 1/2",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Crushed Gravel 3",
-    "Price Per Yard": 30,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "1A Crushed Stone",
-    "Price Per Yard": 56,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "1 Crushed Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "2 Crushed Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "3 Crushed Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "3A Crushed Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "4 Crushed Stone",
-    "Price Per Yard": 54,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Driveway Mix",
-    "Price Per Yard": 42,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Stone Sand",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Washed #1B Sand",
-    "Price Per Yard": 44,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
-    "Price Per Yard": 56,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Concrete Sand",
-    "Price Per Yard": 49,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Mason Sand",
-    "Price Per Yard": 49,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "1A Round Stone",
-    "Price Per Yard": 60,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "1 Round Stone",
-    "Price Per Yard": 67,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "2 Round Stone",
-    "Price Per Yard": 67,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Other Round Stone",
-    "Price Per Yard": 67,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Screened Topsoil",
-    "Price Per Yard": 81,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Manufactured Topsoil",
-    "Price Per Yard": 72,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Recycled Blacktop",
-    "Price Per Yard": 37,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Recycled Concrete",
-    "Price Per Yard": 27,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Fill",
-    "Price Per Yard": 14,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Select Fill",
-    "Price Per Yard": 14,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Inbound Fill",
-    "Price Per Yard": 13,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Inbound Concrete",
-    "Price Per Yard": 9,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Oversized Concrete (Larger than 2' x 2')",
-    "Price Per Yard": 14,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Kinsella Fayetteville",
-    "Material": "Inbound Asphalt",
-    "Price Per Yard": 5,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "OCRRA Amboy",
-    "Material": "Natural Double Ground Mulch",
-    "Price Per Yard": 17,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Amboy",
-    "Material": "Natural Triple Ground Mulch",
-    "Price Per Yard": 20,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Amboy",
-    "Material": "Dyed Triple Ground Mulch",
-    "Price Per Yard": 36,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "OCRRA Amboy",
-    "Material": "1/2\" Screened Compost",
-    "Price Per Yard": 20,
-    "Max Yards Per Load": 6
-  },
-  {
-    "Supplier Name": "OCRRA Amboy",
-    "Material": "1/4\" Screened Compost (Premium)",
-    "Price Per Yard": 24,
-    "Max Yards Per Load": 6
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Pine Mulch",
-    "Price Per Yard": 65,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Playground Surfacing",
-    "Price Per Yard": 51,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Premium Hardwood",
-    "Price Per Yard": 40,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Nature's Bark",
-    "Price Per Yard": 29,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Hemlock Bark",
-    "Price Per Yard": 65,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Cheap Chips",
-    "Price Per Yard": 13,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Stella Black Mulch",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Sable Brown Mulch",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Orchard Red Mulch",
-    "Price Per Yard": 41,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Topsoil",
-    "Price Per Yard": 66,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Planting Blend",
-    "Price Per Yard": 66,
-    "Max Yards Per Load": 3
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Blended Compost",
-    "Price Per Yard": 40,
-    "Max Yards Per Load": 5
-  },
-  {
-    "Supplier Name": "Green Scapes",
-    "Material": "Mushroom Soil Compost",
-    "Price Per Yard": 72,
-    "Max Yards Per Load": 5
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Raimondo Bros",
-    "Material": "Topsoil / Compost mix",
-    "Price Per Yard": 56,
-    "Max Yards Per Load": 4
-  },
-  {
-    "Supplier Name": "Raimondo Bros",
-    "Material": "Gardenbrew (organic compost)",
-    "Price Per Yard": 48,
-    "Max Yards Per Load": 5
-  },
-  {
-    "Supplier Name": "",
-    "Material": "",
-    "Price Per Yard": "",
-    "Max Yards Per Load": ""
-  },
-  {
-    "Supplier Name": "Art Park",
-    "Material": "Wood Chips (Cheap Chips)",
-    "Price Per Yard": 5,
-    "Max Yards Per Load": 10
-  },
-  {
-    "Supplier Name": "Art Park",
-    "Material": "Fill",
-    "Price Per Yard": 5,
-    "Max Yards Per Load": 3
-  }
-]
+{
+  "Art Park": [
+    {
+      "material": "Wood Chips (Cheap Chips)",
+      "price": 5.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Fill",
+      "price": 5.0,
+      "maxYards": 3.0
+    }
+  ],
+  "Aspinall's": [
+    {
+      "material": "Topsoil (Screened)",
+      "price": 45.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Compost (Screened)",
+      "price": 45.0,
+      "maxYards": 6.0
+    },
+    {
+      "material": "Single Ground Natural Pine Mulch",
+      "price": 36.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Double Ground Natural Hardwood Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Certified Playground",
+      "price": 58.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Saddle Brown Pine Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Saddle Brown Hardwood Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Black Diamond Pine Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Black Diamond Hardwood Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "1A Washed Crushed",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Washed Crushed",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Washed Crushed",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3&4 Blend Washed Crushed",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 52.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Runner Crush",
+      "price": 46.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Dust",
+      "price": 52.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Brick Sand (fine paver setting bed)",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Mason Sand (fine particle)",
+      "price": 58.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Grey Roundstone (Pea Gravel)",
+      "price": 64.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Grey Roundstone",
+      "price": 64.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Grey Roundstone",
+      "price": 64.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3&4 Blend Grey Roundstone",
+      "price": 64.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Pink Roundstone (Pea Gravel)",
+      "price": 70.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Pink Roundstone",
+      "price": 70.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Pink Roundstone",
+      "price": 70.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3&4 Blend Pink Roundstone",
+      "price": 70.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Magenta",
+      "price": 177.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Brick Chips",
+      "price": 213.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "St. Lawrence Granite Crushed 1&2 Blend",
+      "price": 105.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "St. Lawrence Granite Rounded 2&3 Blend",
+      "price": 105.0,
+      "maxYards": 3.0
+    }
+  ],
+  "Callanan": [
+    {
+      "material": "1B Screenings Dry (Stone Dust)",
+      "price": 29.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Crushed Stone (1/4\")",
+      "price": 49.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Crushed Stone (1/2\")",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Crushed Stone (3/4\")",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1&2 Blend Crushed Stone",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3A Crushed Stone (1 1/4\")",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3 Crushed Stone (1 1/2\")",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "4 Crushed Stone (3\")",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3&4 Blend Crushed Stone",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1ST Crushed Stone (3/8\")",
+      "price": 44.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Driveway Subbase (1/2\") (Driveway Mix)",
+      "price": 29.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Fine Crusher Run (3/4\")",
+      "price": 26.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Crusher Run (1 1/2\")",
+      "price": 25.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Coarse Crusher Run (4\")",
+      "price": 25.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Type II Subbbase (1.5\")",
+      "price": 25.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "DOT Subbase: T-1 (3\"), T-2 (2\"), T-3 (4\")",
+      "price": 30.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Fill Fine",
+      "price": 36.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Fill Light",
+      "price": 45.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Fill Medium",
+      "price": 49.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Fill Heavy",
+      "price": 56.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Rip Rap Dry",
+      "price": 102.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Rip Rap",
+      "price": 45.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Gabion Stone (4-8\")",
+      "price": 36.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Wall Stone (Stackables)",
+      "price": 133.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Select Fill",
+      "price": 17.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Shale",
+      "price": 11.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Waste",
+      "price": 19.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1B Washed Screenings",
+      "price": 41.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Washed (1/4\")",
+      "price": 56.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Washed Crushed Stone (1/2\")",
+      "price": 42.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Washed Crushed Stone (3/4\")",
+      "price": 42.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1&2 Blend Washed Crushed Stone",
+      "price": 42.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "ASTM #57 Stone",
+      "price": 42.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Washed 1ST (3/8\")",
+      "price": 49.0,
+      "maxYards": 3.0
+    }
+  ],
+  "Cunningham": [
+    {
+      "material": "Bankrun Gravel",
+      "price": 11.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Screened Gravel (Item #4)",
+      "price": 15.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Crushed Gravel (Item #4, 2\" minus)",
+      "price": 17.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Topsoil (Screened)",
+      "price": 46.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Fill Dirt",
+      "price": 9.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Cobbles",
+      "price": 15.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3s & 4s & 1s & 2s",
+      "price": 15.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Sand",
+      "price": 16.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 27.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "#57 Stone",
+      "price": 27.0,
+      "maxYards": 3.0
+    }
+  ],
+  "Green Scapes": [
+    {
+      "material": "Pine Mulch",
+      "price": 65.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Playground Surfacing",
+      "price": 51.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Premium Hardwood",
+      "price": 40.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Nature's Bark",
+      "price": 29.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Hemlock Bark",
+      "price": 65.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Cheap Chips",
+      "price": 13.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Stella Black Mulch",
+      "price": 41.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Sable Brown Mulch",
+      "price": 41.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Orchard Red Mulch",
+      "price": 41.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Topsoil",
+      "price": 66.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Planting Blend",
+      "price": 66.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Blended Compost",
+      "price": 40.0,
+      "maxYards": 5.0
+    },
+    {
+      "material": "Mushroom Soil Compost",
+      "price": 72.0,
+      "maxYards": 5.0
+    }
+  ],
+  "Kinsella Delphi": [
+    {
+      "material": "Crusher Run 1 1/2\" Gravel",
+      "price": 36.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Crusher Run 1 1/2\" Limestone",
+      "price": 53.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Sand",
+      "price": 53.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
+      "price": 68.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Washed #1B Sand (road sand)",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Mason Sand",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Concrete Sand",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Bedding Sand",
+      "price": 26.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Bank Run Gravel / Clay",
+      "price": 21.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Screened Gravel",
+      "price": 27.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Round Stone",
+      "price": 48.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Round Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Round Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Other Round Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Screened Topsoil",
+      "price": 81.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Fill",
+      "price": 14.0,
+      "maxYards": 3.0
+    }
+  ],
+  "Kinsella Fayetteville": [
+    {
+      "material": "Crusher Run 1 1/2\"",
+      "price": 41.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Crushed Gravel 3\"",
+      "price": 30.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Crushed Stone",
+      "price": 56.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Crushed Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Crushed Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3 Crushed Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "3A Crushed Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "4 Crushed Stone",
+      "price": 54.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Driveway Mix",
+      "price": 42.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Stone Sand",
+      "price": 41.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Washed #1B Sand",
+      "price": 44.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Gabion Stone / Fine Stone Fill (90% Range 3-8\")",
+      "price": 56.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Concrete Sand",
+      "price": 49.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Mason Sand",
+      "price": 49.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1A Round Stone",
+      "price": 60.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "1 Round Stone",
+      "price": 67.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "2 Round Stone",
+      "price": 67.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Other Round Stone",
+      "price": 67.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Screened Topsoil",
+      "price": 81.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Manufactured Topsoil",
+      "price": 72.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Recycled Blacktop",
+      "price": 37.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Recycled Concrete",
+      "price": 27.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Fill",
+      "price": 14.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Select Fill",
+      "price": 14.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Inbound Fill",
+      "price": 13.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Inbound Concrete",
+      "price": 9.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Oversized Concrete (Larger than 2' x 2')",
+      "price": 14.0,
+      "maxYards": 3.0
+    },
+    {
+      "material": "Inbound Asphalt",
+      "price": 5.0,
+      "maxYards": 3.0
+    }
+  ],
+  "OCRRA Amboy": [
+    {
+      "material": "Natural Double Ground Mulch",
+      "price": 17.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Natural Triple Ground Mulch",
+      "price": 20.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Dyed Triple Ground Mulch",
+      "price": 36.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "1/2\" Screened Compost",
+      "price": 20.0,
+      "maxYards": 6.0
+    },
+    {
+      "material": "1/4\" Screened Compost (Premium)",
+      "price": 24.0,
+      "maxYards": 6.0
+    }
+  ],
+  "OCRRA Jamesville": [
+    {
+      "material": "Natural Double Ground Mulch",
+      "price": 17.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Natural Triple Ground Mulch",
+      "price": 20.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Dyed Triple Ground Mulch",
+      "price": 36.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "1/2\" Screened Compost",
+      "price": 20.0,
+      "maxYards": 6.0
+    }
+  ],
+  "Raimondo Bros": [
+    {
+      "material": "Topsoil / Compost mix",
+      "price": 56.0,
+      "maxYards": 4.0
+    },
+    {
+      "material": "Gardenbrew (organic compost)",
+      "price": 48.0,
+      "maxYards": 5.0
+    }
+  ],
+  "Westfall": [
+    {
+      "material": "Saddle Brown Hardwood Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    },
+    {
+      "material": "Black Diamond Hardwood Mulch",
+      "price": 42.0,
+      "maxYards": 10.0
+    }
+  ]
+}

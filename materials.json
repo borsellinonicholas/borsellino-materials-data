@@ -7,7 +7,8 @@
     { "material": "Natural Double Ground Mulch", "price": 17, "maxYards": 10 },
     { "material": "Natural Triple Ground Mulch", "price": 20, "maxYards": 10 },
     { "material": "Dyed Triple Ground Mulch", "price": 36, "maxYards": 10 },
-    { "material": "1/2\" Screened Compost", "price": 20, "maxYards": 6 }
+    { "material": "1/2\" Screened Compost", "price": 20, "maxYards": 6 },
+    { "material": "1/4\" Screened Compost (Premium)", "price": 24, "maxYards": 6 }
   ],
   "Callanan": [
     { "material": "1B Screenings Dry (Stone Dust)", "price": 30, "maxYards": 3 },
@@ -146,19 +147,19 @@
     { "material": "1/4\" Screened Compost (Premium)", "price": 24, "maxYards": 6 }
   ],
   "Green Scapes": [
-    { "material": "Pine Mulch", "price": 65, "maxYards": 10 },
-    { "material": "Playground Surfacing", "price": 51, "maxYards": 10 },
-    { "material": "Premium Hardwood", "price": 40, "maxYards": 10 },
-    { "material": "Nature's Bark", "price": 29, "maxYards": 10 },
-    { "material": "Hemlock Bark", "price": 65, "maxYards": 10 },
-    { "material": "Cheap Chips", "price": 13, "maxYards": 10 },
-    { "material": "Stella Black Mulch", "price": 41, "maxYards": 10 },
-    { "material": "Sable Brown Mulch", "price": 41, "maxYards": 10 },
-    { "material": "Orchard Red Mulch", "price": 41, "maxYards": 10 },
-    { "material": "Topsoil", "price": 66, "maxYards": 4 },
-    { "material": "Planting Blend", "price": 66, "maxYards": 4 },
-    { "material": "Blended Compost", "price": 40, "maxYards": 6 },
-    { "material": "Mushroom Soil Compost", "price": 72, "maxYards": 6 }
+    { "material": "Pine Mulch", "price": 70, "maxYards": 10 },
+    { "material": "Playground Surfacing", "price": 56, "maxYards": 10 },
+    { "material": "Premium Hardwood", "price": 42, "maxYards": 10 },
+    { "material": "Nature's Bark", "price": 31, "maxYards": 10 },
+    { "material": "Hemlock Bark", "price": 66, "maxYards": 10 },
+    { "material": "Cheap Chips", "price": 15, "maxYards": 10 },
+    { "material": "Stella Black Mulch", "price": 43, "maxYards": 10 },
+    { "material": "Sable Brown Mulch", "price": 43, "maxYards": 10 },
+    { "material": "Orchard Red Mulch", "price": 43, "maxYards": 10 },
+    { "material": "Topsoil", "price": 68, "maxYards": 4 },
+    { "material": "Planting Blend", "price": 68, "maxYards": 4 },
+    { "material": "Blended Compost", "price": 41, "maxYards": 6 },
+    { "material": "Mushroom Soil Compost", "price": 75, "maxYards": 6 }
   ],
   "Raimondo Bros": [
     { "material": "Topsoil / Compost mix", "price": 56, "maxYards": 5 },

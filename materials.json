@@ -1,7 +1,7 @@
 {
   "Westfall": [
-    { "material": "Saddle Brown Hardwood Mulch", "price": 42, "maxYards": 10 },
-    { "material": "Black Diamond Hardwood Mulch", "price": 42, "maxYards": 10 }
+    { "material": "Saddle Brown Hardwood Mulch", "price": 44, "maxYards": 10 },
+    { "material": "Black Diamond Hardwood Mulch", "price": 44, "maxYards": 10 }
   ],
   "OCRRA Jamesville": [
     { "material": "Natural Double Ground Mulch", "price": 17, "maxYards": 10 },
@@ -157,7 +157,7 @@
     { "material": "Sable Brown Mulch", "price": 43, "maxYards": 10 },
     { "material": "Orchard Red Mulch", "price": 43, "maxYards": 10 },
     { "material": "Topsoil", "price": 68, "maxYards": 4 },
-    { "material": "Planting Blend", "price": 68, "maxYards": 4 },
+    { "material": "Planting Blend", "price": 68, "maxYards": 5 },
     { "material": "Blended Compost", "price": 41, "maxYards": 6 },
     { "material": "Mushroom Soil Compost", "price": 75, "maxYards": 6 }
   ],

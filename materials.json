@@ -162,8 +162,8 @@
     { "material": "Mushroom Soil Compost", "price": 75, "maxYards": 6 }
   ],
   "Raimondo Bros": [
-    { "material": "Topsoil / Compost mix", "price": 56, "maxYards": 5 },
-    { "material": "Gardenbrew (organic compost)", "price": 48, "maxYards": 6 }
+    { "material": "Topsoil", "price": 58, "maxYards": 4 },
+    { "material": "Gardenbrew (organic compost)", "price": 51, "maxYards": 6 }
   ],
   "Art Park": [
     { "material": "Wood Chips (Cheap Chips)", "price": 5, "maxYards": 10 },
